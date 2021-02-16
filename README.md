@@ -21,3 +21,6 @@
 20.[Syntax sugar practise Part 3](https://github.com/kote-ro/scala-courses/blob/main/src/main/scala/tinkoffcourse/Task20.scala)  
 21.[Traits](https://github.com/kote-ro/scala-courses/blob/main/src/main/scala/tinkoffcourse/Task21.scala)  
 22.[Classes](https://github.com/kote-ro/scala-courses/blob/main/src/main/scala/tinkoffcourse/Waiter.scala)  
+
+# 30 Days of Code
+My solutions for [this](https://www.hackerrank.com/domains/tutorials/30-days-of-code) course.
